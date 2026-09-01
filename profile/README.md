@@ -1,14 +1,29 @@
 <div align="center">
 
-# 👋 Hey, I'm Kodeka
+# 👋 Hey, we're KodekaTeam
 
-### Building Open Source Tools for Self-Hosting & Deployment
+**A small team building things we believe are worth building.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&center=true&vCenter=true&width=600&lines=Docker+Enthusiast;Open+Source+Maintainer;Fullstack+Developer;Self-Hosting+Advocate;Building+Developer+Tools" />
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kodekateam&label=Profile%20views&color=0e75b6&style=flat" alt="kodekateam" /> </p>
 </div>
 
-## 🚀 About
+---
+
+### 🚀 What We Do
+
+We design and build our own projects — from ideas and experiments to products that we're proud to share.
+
+We enjoy exploring new technologies, solving interesting problems, and turning ideas into something real.
+
+### 🧩 What You'll Find Here
+
+* 🛠️ Projects we're building and experimenting with
+* 💡 Ideas, concepts, and technical experiments
+* 📦 Open-source tools and resources
+* 📝 Things we've learned along the way
+
+  
+### 👦 About
 I build tools that help developers deploy, manage and scale applications.
 
 My interests include:
@@ -20,56 +35,15 @@ My interests include:
 
 Currently working on a modern deployment platform focused on simplicity and self-hosting.
 
-## ⚙️ Tech Stack
+### 🌱 Keep Building
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,vue,nuxt,nextjs,php,laravel,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
-</p>
+We're constantly learning, experimenting, and improving.
 
-## 🎯 Current Mission
+Some projects may start small. Some may never leave the experimental stage.
+But every project is part of the journey.
 
-Building a deployment platform that enables developers to:
+<div align="center">
 
-✅ Connect Git Providers<br>
-✅ Deploy Applications<br>
-✅ Manage Containers<br>
-✅ Install One-Click Apps<br>
-✅ Run Everything On Their Own Server
+**Build. Experiment. Learn. Repeat.**
 
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Deployment Platform
-
-Git-based deployment system for self-hosted environments.
-
-</td>
-
-<td width="50%">
-
-### 🐳 App Marketplace
-
-One-click installation system powered by Docker.
-
-</td>
-</tr>
-</table>
-
-## ❤️ Open Source Philosophy
-
-I believe software should be:
-
-- Transparent
-- Self-Hostable
-- Community Driven
-- Developer Friendly
-
-Build once.
-Deploy anywhere.
-Own your infrastructure.
-
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kodekateam&label=Profile%20views&color=0e75b6&style=flat" alt="kodekateam" /> </p>
+</div>
