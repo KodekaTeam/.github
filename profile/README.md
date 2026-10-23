@@ -1,49 +1,32 @@
-<div align="center">
+# KodekaTeam
 
-# 👋 Hey, we're KodekaTeam
+**Building practical software. Sharing better tools.**
 
-**A small team building things we believe are worth building.**
+KodekaTeam is an independent software development team focused on building practical tools, open-source projects, and developer-focused solutions.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kodekateam&label=Profile%20views&color=0e75b6&style=flat" alt="kodekateam" /> </p>
-</div>
+We believe good software should be useful, reliable, maintainable, and accessible to the people who build and use it.
 
----
+Our work spans developer tooling, automation, infrastructure, and software engineering workflows — with a focus on solving real-world problems through thoughtful engineering.
 
-### 🚀 What We Do
+## What We Do
 
-We design and build our own projects — from ideas and experiments to products that we're proud to share.
+- **Open Source** — Building and maintaining software that developers can explore, use, and improve.
+- **Developer Tools** — Creating utilities and workflows that make software development more efficient.
+- **Automation & Infrastructure** — Simplifying deployments, operations, and repetitive technical tasks.
+- **Engineering Practices** — Improving code quality, reliability, maintainability, and developer experience.
 
-We enjoy exploring new technologies, solving interesting problems, and turning ideas into something real.
+## Featured Projects
 
-### 🧩 What You'll Find Here
+Explore our repositories to discover the tools and projects we build.
 
-* 🛠️ Projects we're building and experimenting with
-* 💡 Ideas, concepts, and technical experiments
-* 📦 Open-source tools and resources
-* 📝 Things we've learned along the way
+- **[Superior Skills](https://github.com/KodekaTeam/superior-skills)** — Engineering-focused skills for AI coding agents, covering code review, testing, debugging, security, documentation, and more.
+- **[Doktainer](https://github.com/DoktainerApp/doktainer)** — is an open-source, self-hosted platform for managing servers, applications, containers, domains, SSL, backups, and deployment operations from a single web panel..
 
-  
-### 👦 About
-I build tools that help developers deploy, manage and scale applications.
+## Our Principles
 
-My interests include:
-- 🐳 Container Platforms
-- ☁️ Self-Hosting
-- 🚀 Deployment Automation
-- 🔧 DevOps
-- 🌐 Developer Experience
+- **Practical over complicated** — Solve real problems without unnecessary complexity.
+- **Quality over shortcuts** — Prioritize correctness, maintainability, and reliability.
+- **Open by default** — Share knowledge and tools whenever possible.
+- **Continuous improvement** — Learn, iterate, and make every release better.
 
-Currently working on a modern deployment platform focused on simplicity and self-hosting.
-
-### 🌱 Keep Building
-
-We're constantly learning, experimenting, and improving.
-
-Some projects may start small. Some may never leave the experimental stage.
-But every project is part of the journey.
-
-<div align="center">
-
-**Build. Experiment. Learn. Repeat.**
-
-</div>
+*Built with curiosity. Improved through collaboration.*
